@@ -1,0 +1,14 @@
+/Users/stevef1/Source_Code/spring-boot/spring-boot-samples/spring-boot-sample-websocket-tomcat/src/main/java/samples/websocket/tomcat/echo/DefaultEchoService.java
+/Users/stevef1/Source_Code/spring-boot/spring-boot-samples/spring-boot-sample-websocket-tomcat/src/main/java/samples/websocket/tomcat/echo/EchoWebSocketHandler.java
+/Users/stevef1/Source_Code/spring-boot/spring-boot-samples/spring-boot-sample-websocket-tomcat/src/main/java/samples/websocket/tomcat/snake/SnakeTimer.java
+/Users/stevef1/Source_Code/spring-boot/spring-boot-samples/spring-boot-sample-websocket-tomcat/src/main/java/samples/websocket/tomcat/client/GreetingService.java
+/Users/stevef1/Source_Code/spring-boot/spring-boot-samples/spring-boot-sample-websocket-tomcat/src/main/java/samples/websocket/tomcat/client/SimpleGreetingService.java
+/Users/stevef1/Source_Code/spring-boot/spring-boot-samples/spring-boot-sample-websocket-tomcat/src/main/java/samples/websocket/tomcat/snake/Location.java
+/Users/stevef1/Source_Code/spring-boot/spring-boot-samples/spring-boot-sample-websocket-tomcat/src/main/java/samples/websocket/tomcat/snake/SnakeUtils.java
+/Users/stevef1/Source_Code/spring-boot/spring-boot-samples/spring-boot-sample-websocket-tomcat/src/main/java/samples/websocket/tomcat/SampleTomcatWebSocketApplication.java
+/Users/stevef1/Source_Code/spring-boot/spring-boot-samples/spring-boot-sample-websocket-tomcat/src/main/java/samples/websocket/tomcat/snake/Direction.java
+/Users/stevef1/Source_Code/spring-boot/spring-boot-samples/spring-boot-sample-websocket-tomcat/src/main/java/samples/websocket/tomcat/reverse/ReverseWebSocketEndpoint.java
+/Users/stevef1/Source_Code/spring-boot/spring-boot-samples/spring-boot-sample-websocket-tomcat/src/main/java/samples/websocket/tomcat/echo/EchoService.java
+/Users/stevef1/Source_Code/spring-boot/spring-boot-samples/spring-boot-sample-websocket-tomcat/src/main/java/samples/websocket/tomcat/snake/SnakeWebSocketHandler.java
+/Users/stevef1/Source_Code/spring-boot/spring-boot-samples/spring-boot-sample-websocket-tomcat/src/main/java/samples/websocket/tomcat/client/SimpleClientWebSocketHandler.java
+/Users/stevef1/Source_Code/spring-boot/spring-boot-samples/spring-boot-sample-websocket-tomcat/src/main/java/samples/websocket/tomcat/snake/Snake.java

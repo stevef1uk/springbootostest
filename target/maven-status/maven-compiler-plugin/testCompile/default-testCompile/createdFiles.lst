@@ -1,0 +1,6 @@
+samples/websocket/tomcat/SampleWebSocketsApplicationTests$ClientConfiguration.class
+samples/websocket/tomcat/echo/CustomContainerWebSocketsApplicationTests$ClientConfiguration.class
+samples/websocket/tomcat/snake/SnakeTimerTests.class
+samples/websocket/tomcat/echo/CustomContainerWebSocketsApplicationTests.class
+samples/websocket/tomcat/echo/CustomContainerWebSocketsApplicationTests$CustomContainerConfiguration.class
+samples/websocket/tomcat/SampleWebSocketsApplicationTests.class

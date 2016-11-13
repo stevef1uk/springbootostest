@@ -1,0 +1,16 @@
+samples/websocket/tomcat/snake/SnakeTimer.class
+samples/websocket/tomcat/snake/Location$1.class
+samples/websocket/tomcat/reverse/ReverseWebSocketEndpoint.class
+samples/websocket/tomcat/snake/SnakeUtils.class
+samples/websocket/tomcat/client/SimpleGreetingService.class
+samples/websocket/tomcat/SampleTomcatWebSocketApplication.class
+samples/websocket/tomcat/snake/SnakeTimer$1.class
+samples/websocket/tomcat/snake/Direction.class
+samples/websocket/tomcat/snake/Snake.class
+samples/websocket/tomcat/echo/DefaultEchoService.class
+samples/websocket/tomcat/echo/EchoWebSocketHandler.class
+samples/websocket/tomcat/snake/Location.class
+samples/websocket/tomcat/snake/SnakeWebSocketHandler.class
+samples/websocket/tomcat/client/GreetingService.class
+samples/websocket/tomcat/echo/EchoService.class
+samples/websocket/tomcat/client/SimpleClientWebSocketHandler.class
